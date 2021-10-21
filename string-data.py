@@ -1,0 +1,1 @@
+myString = "This is a string"
